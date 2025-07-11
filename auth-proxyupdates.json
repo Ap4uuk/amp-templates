@@ -1,0 +1,14 @@
+[
+    {
+        "UpdateStageName": "Exectude-Download",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "https://github.com/IXLShizua/auth-proxy-gl/releases/download/0.3.0/auth-proxy-gl-x86_64-unknown-linux-gnu.zip",
+        "UpdateSourceTarget": "Auth-Proxy",
+        "UnzipUpdateSource": true,
+        "OverwriteExistingFiles": true,
+        "UpdateSourceConditionSetting": "GitHubDownload",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
